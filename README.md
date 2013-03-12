@@ -1,4 +1,4 @@
 unidecoder-data
 ===============
 
-Program to write data for the unidecoder package
+Program to write data for the go-unidecoder package
